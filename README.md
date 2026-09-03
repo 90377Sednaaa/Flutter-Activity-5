@@ -96,8 +96,3 @@ All 7 test cases (addition, subtraction, multiplication, division, zero-division
 **Murillo**
 * GitHub: [@90377Sednaaa](https://github.com/90377Sednaaa)
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
